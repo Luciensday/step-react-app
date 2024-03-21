@@ -1,4 +1,3 @@
-The step by step turoial project
 
 
 # Getting Started with Create React App
